@@ -1,0 +1,64 @@
+.wrapper{
+  background-color: #717171;
+
+}
+.logo{
+  max-width: 100%;
+  height: 200px;
+}
+.logo-box{
+  width: 25%;
+  margin: 0 auto;
+}
+
+h1{
+  font-family: "Lobster",sans-serif;
+  font-size: 55px;
+  color: #8BB1D4;
+  text-align: center;
+}
+.tagline h4{
+  text-align: center;
+  font-family: "Cabin", sans-serif;
+  font-size: 35px;
+  color: #2E1C35;
+}
+.tagline{
+  background-color: #717171;
+}
+.bike-pics{
+  width: 100%;
+}
+.bike-pics img{
+  float: left;
+  width: 33%;
+  height: 200px;
+  max-width: 100%;
+}
+.clearfix{
+  clear: both;
+}
+@media(max-width: 786px){
+  .mobile-pic{
+    margin: 0 auto;
+    text-align: center;
+  }
+}
+.about{
+  
+    background-color: #717171;
+    font-family: "Lobster",sans-serif;
+    text-align: center;
+
+}
+.contact{
+  text-align: center;
+  font-size: 30px;
+  color: #8BB1D4;
+  font-family: "Cabin", sans-serif;
+
+}
+.footer{
+  text-align: center;
+  color: #2E1C35;;
+}
