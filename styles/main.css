@@ -43,9 +43,13 @@ h1{
     margin: 0 auto;
     text-align: center;
   }
+  .about {
+    display: none;
+  }
+
 }
 .about{
-  
+
     background-color: #717171;
     font-family: "Lobster",sans-serif;
     text-align: center;
